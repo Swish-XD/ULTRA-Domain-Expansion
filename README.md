@@ -14,10 +14,10 @@
 > Also, if you occured some problem - open issue on the mod <a href="https://github.com/Swish-XD/ULTRA-Domain-Expansion">Github page</a>, Im try to help.
 
 ## Shortcuts
-- [Showcase](#mod-showcase)
-- [Future of the mod](#future-updates)
-- [Installation guide](#installation)
-- [About API](#api)
+- [Showcase](#-mod-showcase)
+- [Future of the mod](#-future-updates)
+- [Installation guide](#-installation)
+- [About API](#-api)
 
 # <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/59e5ad1c-7ce2-46a1-95d8-038f8eba4469" /> Mod showcase
 Early WIP
