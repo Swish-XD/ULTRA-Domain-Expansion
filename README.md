@@ -23,7 +23,7 @@
 Early WIP
 
 # <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/c1ce8960-eba0-4bb1-8a29-12d801a97755" /> Future updates
-- [X] Malelovent Shrine
+- [ ] Malelovent Shrine
 - [ ] Infinite Void
 - [ ] Custom API for custom domains
 - [ ] Make better domains barriers
